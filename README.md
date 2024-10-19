@@ -1,7 +1,6 @@
 # PeerConnect
 
-PeerConnect is a peer-to-peer video conferencing application leveraging WebRTC, Socket.io, and Node.js.
-
+PeerConnect is a seamless, peer-to-peer video conferencing solution built using modern web technologies like WebRTC, Socket.io, and Node.js. It offers real-time communication with minimal latency, perfect for video calls, voice chats, and soon-to-come text messaging, making it a robust platform for virtual meetings.
 # Getting Started
 
 - Run `npm ci`
@@ -10,13 +9,13 @@ PeerConnect is a peer-to-peer video conferencing application leveraging WebRTC, 
 
 # Features
 
-- Enable/disable video stream
-- Mute/unmute audio
-- Text chat (under development)
+-Toggle Video: Start or stop your video stream during calls.
+-Audio Control: Mute or unmute your microphone with ease.
+-Text Chat (Under Development): Send messages in real time while on a call.
 
 # Demo
 
-Try the demo at https://baat-cheet-1pgl.onrender.com/
+Try the demo at: (https://baat-cheet-1pgl.onrender.com/)
 
 
 # Note
