@@ -13,6 +13,12 @@ PeerConnect is a seamless, peer-to-peer video conferencing solution built using 
 -Audio Control: Mute or unmute your microphone with ease.
 -Text Chat (Under Development): Send messages in real time while on a call.
 
+# ScreenShots
+
+![plot](./screenshots/1.png)
+![plot](./screenshots/2.png)
+![plot](./screenshots/3.png)
+
 # Demo
 
 Try the demo at: (https://baat-cheet-1pgl.onrender.com/)
