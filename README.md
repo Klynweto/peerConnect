@@ -16,7 +16,7 @@ PeerConnect is a peer-to-peer video conferencing application leveraging WebRTC, 
 
 # Demo
 
-Try the demo at https://example-peerconnect.onrender.com/.
+Try the demo at https://baat-cheet-1pgl.onrender.com/
 
 
 # Note
